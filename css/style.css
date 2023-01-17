@@ -64,6 +64,10 @@ ul {
     border: 1px solid #E7E9FC;
     border-radius: 4px;
 }
+
+.auto {
+    cursor: auto;}
+    
 .button:hover {
     background-color: #4D5AE5;
     color:#FFFFFF;
