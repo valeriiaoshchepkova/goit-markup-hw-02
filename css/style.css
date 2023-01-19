@@ -1,6 +1,7 @@
 
 body {
   background-color:#ffffff ;
+  color:#ffffff;
   font-family: "Roboto";
   font-size: 14px;
 }
@@ -28,7 +29,7 @@ ul {
     list-style: none;
 }
 
-.site-nav {
+.list-nav {
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
